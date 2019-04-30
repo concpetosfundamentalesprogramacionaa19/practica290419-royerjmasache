@@ -1,4 +1,4 @@
-c
+
 Presentar la solución en lenguaje Java
 
 El costo de matricula de un estudiante es de $1330. Pero se debe considerar algunas situaciones:
